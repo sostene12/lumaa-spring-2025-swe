@@ -1,4 +1,4 @@
-## Solution IMplementation
+## Solution Implementation
 
 ### How to run the backend
 
