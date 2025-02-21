@@ -25,4 +25,4 @@ Regarding the salary , i would prefer the the entry level salary of an intern.bu
 ## Short Video Demo
 
 ### Video Link
- Click here to watch the video -> https://github.com/atlp-rwanda/ecommerce-app-champions-bn/edit/develop/README.md
+ Click here to watch the video -> https://drive.google.com/file/d/1lJA5KVVgOGBqVMFkJXOytdkosA-YtFFp/view?usp=drive_link
